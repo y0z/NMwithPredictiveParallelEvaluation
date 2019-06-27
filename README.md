@@ -19,7 +19,7 @@ $ python3 example.py --num_dim=2 --num_parallels 10 --num_montecarlo 100 --num_s
 ```bibtex
 @INPROCEEDINGS{ozaki-neldermead19,
 author    = {Y. Ozaki and S. Watanabe and M. Onishi},
-title     = {Nelder--Mead Method with Predictive Parallel Evaluation},
+title     = {Accelerating the Nelder--Mead Method with Predictive Parallel Evaluation},
 booktitle = {6th ICML Workshop on Automated Machine Learning},
 year      = {2019},
 month     = jun
