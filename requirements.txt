@@ -1,4 +1,4 @@
 scipy==1.2.1
-numpy==1.16.2
+numpy==1.22.0
 pyDOE==0.3.8
 scikit_learn==0.21.1
